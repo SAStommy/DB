@@ -1,7 +1,7 @@
 # DB
 
 ## HW
-### HW01: [ERD and CRUD introduction](https://youtu.be/vVKSFbrTI6M)
+### HW01: [ERD and CRUD introduction with mysql](https://youtu.be/vVKSFbrTI6M)
 ![ER-diagram example](erdiagarmexample.png)
 ### HW01extra: [schema diagram](https://youtu.be/3HQAaHCplTg)
 ![schema diagarm](schemadiagramexample.png)

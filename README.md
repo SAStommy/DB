@@ -2,7 +2,9 @@
 
 ## HW
 ### HW01: [ERD and CRUD introduction](https://youtu.be/vVKSFbrTI6M)
+![ER-diagram example](C:\Users\admin\OneDrive\圖片\螢幕擷取畫面\erdiagarmexample.png)
 ### HW01extra: [schema diagram]()
+![schema diagarm](C:\Users\admin\OneDrive\圖片\螢幕擷取畫面\schemadiagramexample.png)
 ### HW02: [CRUD in web with mysql](https://youtu.be/HG85ye_FHOY)
 ### HW02extra: [achieve search function]()
 ### HW03: [CRUD in mongoDB](https://youtu.be/uVBjpWffbcM)

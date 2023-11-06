@@ -10,4 +10,4 @@
 ### HW03: [CRUD in mongoDB](https://youtu.be/uVBjpWffbcM)
 ### HW03extra: [CRUD in web with mongondb](https://youtu.be/hn0c5aV3yk4)
 ### HW04: 會對HW01-HW03增加內容,成為extra系列
-### HW05: [Azure development]()
+### HW05: [Azure development](https://youtu.be/wsZ7iXCsSdE)
